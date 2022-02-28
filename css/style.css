@@ -6,6 +6,7 @@
 
 body{
     margin-left: 5px;
+    margin-right: 5px;
 }
 
 .logo-container{
@@ -24,4 +25,14 @@ body{
 
 h5{
     color: lightgray;
+}
+
+.lorem{
+    margin-top: 20px;
+}
+
+#highlighted-text{
+    
+    background-color: yellow;
+
 }
