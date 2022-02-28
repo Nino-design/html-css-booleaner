@@ -42,3 +42,26 @@ h5{
     margin-top: 20px;
     margin-left: 20px;
 }
+
+.table{
+    margin-top: 20px;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+.uneven{
+    background-color: lightblue;
+    color: black;
+}
+
+.even{
+    background-color: white;
+    color: black;
+}
+
+td{
+    padding-right: 85px;
+}
