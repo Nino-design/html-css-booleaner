@@ -23,6 +23,7 @@ body{
     margin-top: 20px;
 }
 
+
 h5{
     color: lightgray;
 }
@@ -35,4 +36,9 @@ h5{
     
     background-color: yellow;
 
+}
+
+.lorem-list{
+    margin-top: 20px;
+    margin-left: 20px;
 }
