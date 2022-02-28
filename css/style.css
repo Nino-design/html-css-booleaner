@@ -9,9 +9,14 @@ body{
     margin-right: 5px;
 }
 
+#color-text{
+
+    color: cyan;
+}
+
 .logo-container{
     background-color: aqua;
-    background-image: url("img/pattern.png");
+    background-image: url("../img/pattern.png");
 }
 
 .logo{
@@ -24,7 +29,7 @@ body{
 }
 
 
-h5{
+h4,h5{
     color: lightgray;
 }
 
@@ -64,4 +69,21 @@ thead{
 
 td{
     padding-right: 85px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+
+#first-image{
+    background-image: url("../img/monitor.jpg");
+    
+}
+
+#second-image{
+    background-image: url("../img/graph.jpg");
+    
 }
